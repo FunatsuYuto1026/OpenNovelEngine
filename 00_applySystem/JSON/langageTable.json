@@ -1,0 +1,32 @@
+﻿{
+    "systemWord": [
+        {
+            "scenario": "シナリオ",
+            "characterSettings": "キャラクター設定",
+            "BGI": "背景美術",
+            "BGM": "ＢＧＭ",
+            "soundeffects": "サウンドエフェクト",
+            "movie": "動画",
+            "WebPage": "Webページ生成",
+            "UI": "ＵＩ",
+            "storyFllow": "ストーリーフロー",
+            "testPlay": "テストプレイ"
+        }
+    ],
+    "gameSystemdirectoryName": [
+        {
+            "gameName": "名称未設定",
+            "EnglishgameName": "名称未設定（英名）"
+        }
+    ],
+    "errorMassage": [
+        {
+            "NGwordIncluded": "禁止文字が含まれています",
+            "interpretorFaild": "ストーリーデータの解釈に失敗しました。",
+            "fileNotExist": "ファイルが存在しません。",
+            "fileAccessDenied": "ファイルへのアクセスが拒否されました。",
+            "notIdentifyName": "識別名が重複しています。別の名前を入力してください。",
+            "unexpectedError": "予期せぬエラーが発生しました。"
+        }
+    ]
+}
